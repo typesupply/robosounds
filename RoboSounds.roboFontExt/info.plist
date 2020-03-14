@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>menu_settings.py</string>
+			<key>preferredName</key>
+			<string>Settings...</string>
+			<key>shortKey</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>menu_toggleState.py</string>
+			<key>preferredName</key>
+			<string>Sounds On/Off</string>
+			<key>shortKey</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>Tal Leming</string>
+	<key>developerURL</key>
+	<string>typesupply.com</string>
+	<key>html</key>
+	<false/>
+	<key>launchAtStartUp</key>
+	<integer>1</integer>
+	<key>mainScript</key>
+	<string>robosounds.py</string>
+	<key>name</key>
+	<string>RoboSounds</string>
+	<key>timeStamp</key>
+	<real>0.0</real>
+	<key>version</key>
+	<string>0.0.1</string>
+</dict>
+</plist>

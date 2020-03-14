@@ -1,0 +1,4 @@
+from mojo.roboFont import OpenWindow
+from robosounds import RoboSoundsWindowController
+
+OpenWindow(RoboSoundsWindowController)
